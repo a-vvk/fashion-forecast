@@ -1,0 +1,796 @@
+garment_group_name,keyword,date,interest,is_partial
+Jersey Basic,basic t-shirt,2025-09-28 00:00:00+00:00,0,False
+Jersey Basic,plain t-shirt,2025-09-28 00:00:00+00:00,0,False
+Jersey Basic,cotton t-shirt,2025-09-28 00:00:00+00:00,3,False
+Jersey Basic,basic t-shirt,2025-10-05 00:00:00+00:00,0,False
+Jersey Basic,plain t-shirt,2025-10-05 00:00:00+00:00,0,False
+Jersey Basic,cotton t-shirt,2025-10-05 00:00:00+00:00,2,False
+Jersey Basic,basic t-shirt,2025-10-12 00:00:00+00:00,0,False
+Jersey Basic,plain t-shirt,2025-10-12 00:00:00+00:00,0,False
+Jersey Basic,cotton t-shirt,2025-10-12 00:00:00+00:00,3,False
+Jersey Basic,basic t-shirt,2025-10-19 00:00:00+00:00,0,False
+Jersey Basic,plain t-shirt,2025-10-19 00:00:00+00:00,2,False
+Jersey Basic,cotton t-shirt,2025-10-19 00:00:00+00:00,3,False
+Jersey Basic,basic t-shirt,2025-10-26 00:00:00+00:00,0,False
+Jersey Basic,plain t-shirt,2025-10-26 00:00:00+00:00,0,False
+Jersey Basic,cotton t-shirt,2025-10-26 00:00:00+00:00,3,False
+Jersey Basic,basic t-shirt,2025-11-02 00:00:00+00:00,0,False
+Jersey Basic,plain t-shirt,2025-11-02 00:00:00+00:00,0,False
+Jersey Basic,cotton t-shirt,2025-11-02 00:00:00+00:00,4,False
+Jersey Basic,basic t-shirt,2025-11-09 00:00:00+00:00,0,False
+Jersey Basic,plain t-shirt,2025-11-09 00:00:00+00:00,0,False
+Jersey Basic,cotton t-shirt,2025-11-09 00:00:00+00:00,5,False
+Jersey Basic,basic t-shirt,2025-11-16 00:00:00+00:00,0,False
+Jersey Basic,plain t-shirt,2025-11-16 00:00:00+00:00,0,False
+Jersey Basic,cotton t-shirt,2025-11-16 00:00:00+00:00,5,False
+Jersey Basic,basic t-shirt,2025-11-23 00:00:00+00:00,0,False
+Jersey Basic,plain t-shirt,2025-11-23 00:00:00+00:00,0,False
+Jersey Basic,cotton t-shirt,2025-11-23 00:00:00+00:00,6,False
+Jersey Basic,basic t-shirt,2025-11-30 00:00:00+00:00,0,False
+Jersey Basic,plain t-shirt,2025-11-30 00:00:00+00:00,0,False
+Jersey Basic,cotton t-shirt,2025-11-30 00:00:00+00:00,5,False
+Jersey Basic,basic t-shirt,2025-12-07 00:00:00+00:00,0,False
+Jersey Basic,plain t-shirt,2025-12-07 00:00:00+00:00,0,False
+Jersey Basic,cotton t-shirt,2025-12-07 00:00:00+00:00,5,False
+Jersey Basic,basic t-shirt,2025-12-14 00:00:00+00:00,0,False
+Jersey Basic,plain t-shirt,2025-12-14 00:00:00+00:00,0,False
+Jersey Basic,cotton t-shirt,2025-12-14 00:00:00+00:00,4,False
+Jersey Basic,basic t-shirt,2025-12-21 00:00:00+00:00,0,False
+Jersey Basic,plain t-shirt,2025-12-21 00:00:00+00:00,0,False
+Jersey Basic,cotton t-shirt,2025-12-21 00:00:00+00:00,4,False
+Jersey Basic,basic t-shirt,2025-12-28 00:00:00+00:00,0,False
+Jersey Basic,plain t-shirt,2025-12-28 00:00:00+00:00,0,False
+Jersey Basic,cotton t-shirt,2025-12-28 00:00:00+00:00,5,False
+Jersey Basic,basic t-shirt,2026-01-04 00:00:00+00:00,0,False
+Jersey Basic,plain t-shirt,2026-01-04 00:00:00+00:00,0,False
+Jersey Basic,cotton t-shirt,2026-01-04 00:00:00+00:00,3,False
+Jersey Basic,basic t-shirt,2026-01-11 00:00:00+00:00,0,False
+Jersey Basic,plain t-shirt,2026-01-11 00:00:00+00:00,0,False
+Jersey Basic,cotton t-shirt,2026-01-11 00:00:00+00:00,4,False
+Jersey Basic,basic t-shirt,2026-01-18 00:00:00+00:00,0,False
+Jersey Basic,plain t-shirt,2026-01-18 00:00:00+00:00,0,False
+Jersey Basic,cotton t-shirt,2026-01-18 00:00:00+00:00,2,False
+Jersey Basic,basic t-shirt,2026-01-25 00:00:00+00:00,0,False
+Jersey Basic,plain t-shirt,2026-01-25 00:00:00+00:00,0,False
+Jersey Basic,cotton t-shirt,2026-01-25 00:00:00+00:00,4,False
+Jersey Basic,basic t-shirt,2026-02-01 00:00:00+00:00,0,False
+Jersey Basic,plain t-shirt,2026-02-01 00:00:00+00:00,0,False
+Jersey Basic,cotton t-shirt,2026-02-01 00:00:00+00:00,4,False
+Jersey Basic,basic t-shirt,2026-02-08 00:00:00+00:00,9,False
+Jersey Basic,plain t-shirt,2026-02-08 00:00:00+00:00,9,False
+Jersey Basic,cotton t-shirt,2026-02-08 00:00:00+00:00,81,False
+Jersey Basic,basic t-shirt,2026-02-15 00:00:00+00:00,12,False
+Jersey Basic,plain t-shirt,2026-02-15 00:00:00+00:00,7,False
+Jersey Basic,cotton t-shirt,2026-02-15 00:00:00+00:00,100,False
+Jersey Basic,basic t-shirt,2026-02-22 00:00:00+00:00,3,False
+Jersey Basic,plain t-shirt,2026-02-22 00:00:00+00:00,2,False
+Jersey Basic,cotton t-shirt,2026-02-22 00:00:00+00:00,23,False
+Jersey Basic,basic t-shirt,2026-03-01 00:00:00+00:00,0,False
+Jersey Basic,plain t-shirt,2026-03-01 00:00:00+00:00,0,False
+Jersey Basic,cotton t-shirt,2026-03-01 00:00:00+00:00,3,False
+Jersey Basic,basic t-shirt,2026-03-08 00:00:00+00:00,0,False
+Jersey Basic,plain t-shirt,2026-03-08 00:00:00+00:00,0,False
+Jersey Basic,cotton t-shirt,2026-03-08 00:00:00+00:00,5,False
+Jersey Basic,basic t-shirt,2026-03-15 00:00:00+00:00,0,False
+Jersey Basic,plain t-shirt,2026-03-15 00:00:00+00:00,0,False
+Jersey Basic,cotton t-shirt,2026-03-15 00:00:00+00:00,4,False
+Jersey Basic,basic t-shirt,2026-03-22 00:00:00+00:00,0,False
+Jersey Basic,plain t-shirt,2026-03-22 00:00:00+00:00,0,False
+Jersey Basic,cotton t-shirt,2026-03-22 00:00:00+00:00,5,False
+Jersey Basic,basic t-shirt,2026-03-29 00:00:00+00:00,0,False
+Jersey Basic,plain t-shirt,2026-03-29 00:00:00+00:00,2,False
+Jersey Basic,cotton t-shirt,2026-03-29 00:00:00+00:00,3,False
+Jersey Basic,basic t-shirt,2026-04-05 00:00:00+00:00,0,False
+Jersey Basic,plain t-shirt,2026-04-05 00:00:00+00:00,0,False
+Jersey Basic,cotton t-shirt,2026-04-05 00:00:00+00:00,7,False
+Jersey Basic,basic t-shirt,2026-04-12 00:00:00+00:00,0,False
+Jersey Basic,plain t-shirt,2026-04-12 00:00:00+00:00,0,False
+Jersey Basic,cotton t-shirt,2026-04-12 00:00:00+00:00,5,False
+Jersey Basic,basic t-shirt,2026-04-19 00:00:00+00:00,2,False
+Jersey Basic,plain t-shirt,2026-04-19 00:00:00+00:00,0,False
+Jersey Basic,cotton t-shirt,2026-04-19 00:00:00+00:00,5,False
+Jersey Basic,basic t-shirt,2026-04-26 00:00:00+00:00,0,False
+Jersey Basic,plain t-shirt,2026-04-26 00:00:00+00:00,0,False
+Jersey Basic,cotton t-shirt,2026-04-26 00:00:00+00:00,4,False
+Jersey Basic,basic t-shirt,2026-05-03 00:00:00+00:00,0,False
+Jersey Basic,plain t-shirt,2026-05-03 00:00:00+00:00,0,False
+Jersey Basic,cotton t-shirt,2026-05-03 00:00:00+00:00,5,False
+Jersey Basic,basic t-shirt,2026-05-10 00:00:00+00:00,0,False
+Jersey Basic,plain t-shirt,2026-05-10 00:00:00+00:00,0,False
+Jersey Basic,cotton t-shirt,2026-05-10 00:00:00+00:00,5,False
+Jersey Basic,basic t-shirt,2026-05-17 00:00:00+00:00,0,False
+Jersey Basic,plain t-shirt,2026-05-17 00:00:00+00:00,0,False
+Jersey Basic,cotton t-shirt,2026-05-17 00:00:00+00:00,5,False
+Jersey Basic,basic t-shirt,2026-05-24 00:00:00+00:00,0,False
+Jersey Basic,plain t-shirt,2026-05-24 00:00:00+00:00,0,False
+Jersey Basic,cotton t-shirt,2026-05-24 00:00:00+00:00,6,False
+Jersey Basic,basic t-shirt,2026-05-31 00:00:00+00:00,0,False
+Jersey Basic,plain t-shirt,2026-05-31 00:00:00+00:00,0,False
+Jersey Basic,cotton t-shirt,2026-05-31 00:00:00+00:00,4,False
+Jersey Basic,basic t-shirt,2026-06-07 00:00:00+00:00,0,False
+Jersey Basic,plain t-shirt,2026-06-07 00:00:00+00:00,0,False
+Jersey Basic,cotton t-shirt,2026-06-07 00:00:00+00:00,3,False
+Jersey Basic,basic t-shirt,2026-06-14 00:00:00+00:00,0,False
+Jersey Basic,plain t-shirt,2026-06-14 00:00:00+00:00,0,False
+Jersey Basic,cotton t-shirt,2026-06-14 00:00:00+00:00,3,False
+Jersey Basic,basic t-shirt,2026-06-21 00:00:00+00:00,0,False
+Jersey Basic,plain t-shirt,2026-06-21 00:00:00+00:00,0,False
+Jersey Basic,cotton t-shirt,2026-06-21 00:00:00+00:00,3,False
+Jersey Basic,basic t-shirt,2026-06-28 00:00:00+00:00,0,False
+Jersey Basic,plain t-shirt,2026-06-28 00:00:00+00:00,0,False
+Jersey Basic,cotton t-shirt,2026-06-28 00:00:00+00:00,4,False
+Jersey Basic,basic t-shirt,2026-07-05 00:00:00+00:00,0,False
+Jersey Basic,plain t-shirt,2026-07-05 00:00:00+00:00,0,False
+Jersey Basic,cotton t-shirt,2026-07-05 00:00:00+00:00,4,False
+Jersey Basic,basic t-shirt,2026-07-12 00:00:00+00:00,0,False
+Jersey Basic,plain t-shirt,2026-07-12 00:00:00+00:00,0,False
+Jersey Basic,cotton t-shirt,2026-07-12 00:00:00+00:00,3,False
+Jersey Basic,basic t-shirt,2026-07-19 00:00:00+00:00,0,False
+Jersey Basic,plain t-shirt,2026-07-19 00:00:00+00:00,0,False
+Jersey Basic,cotton t-shirt,2026-07-19 00:00:00+00:00,3,False
+Jersey Basic,basic t-shirt,2026-07-26 00:00:00+00:00,0,False
+Jersey Basic,plain t-shirt,2026-07-26 00:00:00+00:00,0,False
+Jersey Basic,cotton t-shirt,2026-07-26 00:00:00+00:00,3,False
+Jersey Basic,basic t-shirt,2026-08-02 00:00:00+00:00,0,False
+Jersey Basic,plain t-shirt,2026-08-02 00:00:00+00:00,0,False
+Jersey Basic,cotton t-shirt,2026-08-02 00:00:00+00:00,2,False
+Jersey Basic,basic t-shirt,2026-08-09 00:00:00+00:00,0,False
+Jersey Basic,plain t-shirt,2026-08-09 00:00:00+00:00,0,False
+Jersey Basic,cotton t-shirt,2026-08-09 00:00:00+00:00,4,False
+Jersey Basic,basic t-shirt,2026-08-16 00:00:00+00:00,0,False
+Jersey Basic,plain t-shirt,2026-08-16 00:00:00+00:00,0,False
+Jersey Basic,cotton t-shirt,2026-08-16 00:00:00+00:00,4,False
+Jersey Basic,basic t-shirt,2026-08-23 00:00:00+00:00,0,False
+Jersey Basic,plain t-shirt,2026-08-23 00:00:00+00:00,0,False
+Jersey Basic,cotton t-shirt,2026-08-23 00:00:00+00:00,4,False
+Jersey Basic,basic t-shirt,2026-08-30 00:00:00+00:00,0,False
+Jersey Basic,plain t-shirt,2026-08-30 00:00:00+00:00,0,False
+Jersey Basic,cotton t-shirt,2026-08-30 00:00:00+00:00,4,False
+Jersey Basic,basic t-shirt,2026-09-06 00:00:00+00:00,0,False
+Jersey Basic,plain t-shirt,2026-09-06 00:00:00+00:00,0,False
+Jersey Basic,cotton t-shirt,2026-09-06 00:00:00+00:00,5,False
+Jersey Basic,basic t-shirt,2026-09-13 00:00:00+00:00,0,False
+Jersey Basic,plain t-shirt,2026-09-13 00:00:00+00:00,0,False
+Jersey Basic,cotton t-shirt,2026-09-13 00:00:00+00:00,1,False
+Jersey Basic,basic t-shirt,2026-09-20 00:00:00+00:00,0,False
+Jersey Basic,plain t-shirt,2026-09-20 00:00:00+00:00,1,False
+Jersey Basic,cotton t-shirt,2026-09-20 00:00:00+00:00,4,False
+Jersey Basic,basic t-shirt,2026-09-27 00:00:00+00:00,0,True
+Jersey Basic,plain t-shirt,2026-09-27 00:00:00+00:00,0,True
+Jersey Basic,cotton t-shirt,2026-09-27 00:00:00+00:00,3,True
+Jersey Fancy,graphic t-shirt,2025-09-28 00:00:00+00:00,0,False
+Jersey Fancy,printed t-shirt,2025-09-28 00:00:00+00:00,0,False
+Jersey Fancy,band t-shirt,2025-09-28 00:00:00+00:00,0,False
+Jersey Fancy,graphic t-shirt,2025-10-05 00:00:00+00:00,0,False
+Jersey Fancy,printed t-shirt,2025-10-05 00:00:00+00:00,0,False
+Jersey Fancy,band t-shirt,2025-10-05 00:00:00+00:00,0,False
+Jersey Fancy,graphic t-shirt,2025-10-12 00:00:00+00:00,0,False
+Jersey Fancy,printed t-shirt,2025-10-12 00:00:00+00:00,0,False
+Jersey Fancy,band t-shirt,2025-10-12 00:00:00+00:00,0,False
+Jersey Fancy,graphic t-shirt,2025-10-19 00:00:00+00:00,0,False
+Jersey Fancy,printed t-shirt,2025-10-19 00:00:00+00:00,0,False
+Jersey Fancy,band t-shirt,2025-10-19 00:00:00+00:00,0,False
+Jersey Fancy,graphic t-shirt,2025-10-26 00:00:00+00:00,0,False
+Jersey Fancy,printed t-shirt,2025-10-26 00:00:00+00:00,0,False
+Jersey Fancy,band t-shirt,2025-10-26 00:00:00+00:00,0,False
+Jersey Fancy,graphic t-shirt,2025-11-02 00:00:00+00:00,2,False
+Jersey Fancy,printed t-shirt,2025-11-02 00:00:00+00:00,0,False
+Jersey Fancy,band t-shirt,2025-11-02 00:00:00+00:00,0,False
+Jersey Fancy,graphic t-shirt,2025-11-09 00:00:00+00:00,0,False
+Jersey Fancy,printed t-shirt,2025-11-09 00:00:00+00:00,0,False
+Jersey Fancy,band t-shirt,2025-11-09 00:00:00+00:00,0,False
+Jersey Fancy,graphic t-shirt,2025-11-16 00:00:00+00:00,2,False
+Jersey Fancy,printed t-shirt,2025-11-16 00:00:00+00:00,0,False
+Jersey Fancy,band t-shirt,2025-11-16 00:00:00+00:00,0,False
+Jersey Fancy,graphic t-shirt,2025-11-23 00:00:00+00:00,3,False
+Jersey Fancy,printed t-shirt,2025-11-23 00:00:00+00:00,0,False
+Jersey Fancy,band t-shirt,2025-11-23 00:00:00+00:00,0,False
+Jersey Fancy,graphic t-shirt,2025-11-30 00:00:00+00:00,3,False
+Jersey Fancy,printed t-shirt,2025-11-30 00:00:00+00:00,0,False
+Jersey Fancy,band t-shirt,2025-11-30 00:00:00+00:00,0,False
+Jersey Fancy,graphic t-shirt,2025-12-07 00:00:00+00:00,0,False
+Jersey Fancy,printed t-shirt,2025-12-07 00:00:00+00:00,0,False
+Jersey Fancy,band t-shirt,2025-12-07 00:00:00+00:00,0,False
+Jersey Fancy,graphic t-shirt,2025-12-14 00:00:00+00:00,2,False
+Jersey Fancy,printed t-shirt,2025-12-14 00:00:00+00:00,0,False
+Jersey Fancy,band t-shirt,2025-12-14 00:00:00+00:00,0,False
+Jersey Fancy,graphic t-shirt,2025-12-21 00:00:00+00:00,3,False
+Jersey Fancy,printed t-shirt,2025-12-21 00:00:00+00:00,0,False
+Jersey Fancy,band t-shirt,2025-12-21 00:00:00+00:00,0,False
+Jersey Fancy,graphic t-shirt,2025-12-28 00:00:00+00:00,0,False
+Jersey Fancy,printed t-shirt,2025-12-28 00:00:00+00:00,0,False
+Jersey Fancy,band t-shirt,2025-12-28 00:00:00+00:00,0,False
+Jersey Fancy,graphic t-shirt,2026-01-04 00:00:00+00:00,0,False
+Jersey Fancy,printed t-shirt,2026-01-04 00:00:00+00:00,0,False
+Jersey Fancy,band t-shirt,2026-01-04 00:00:00+00:00,0,False
+Jersey Fancy,graphic t-shirt,2026-01-11 00:00:00+00:00,0,False
+Jersey Fancy,printed t-shirt,2026-01-11 00:00:00+00:00,0,False
+Jersey Fancy,band t-shirt,2026-01-11 00:00:00+00:00,0,False
+Jersey Fancy,graphic t-shirt,2026-01-18 00:00:00+00:00,0,False
+Jersey Fancy,printed t-shirt,2026-01-18 00:00:00+00:00,0,False
+Jersey Fancy,band t-shirt,2026-01-18 00:00:00+00:00,0,False
+Jersey Fancy,graphic t-shirt,2026-01-25 00:00:00+00:00,2,False
+Jersey Fancy,printed t-shirt,2026-01-25 00:00:00+00:00,0,False
+Jersey Fancy,band t-shirt,2026-01-25 00:00:00+00:00,0,False
+Jersey Fancy,graphic t-shirt,2026-02-01 00:00:00+00:00,3,False
+Jersey Fancy,printed t-shirt,2026-02-01 00:00:00+00:00,2,False
+Jersey Fancy,band t-shirt,2026-02-01 00:00:00+00:00,0,False
+Jersey Fancy,graphic t-shirt,2026-02-08 00:00:00+00:00,79,False
+Jersey Fancy,printed t-shirt,2026-02-08 00:00:00+00:00,55,False
+Jersey Fancy,band t-shirt,2026-02-08 00:00:00+00:00,25,False
+Jersey Fancy,graphic t-shirt,2026-02-15 00:00:00+00:00,100,False
+Jersey Fancy,printed t-shirt,2026-02-15 00:00:00+00:00,70,False
+Jersey Fancy,band t-shirt,2026-02-15 00:00:00+00:00,29,False
+Jersey Fancy,graphic t-shirt,2026-02-22 00:00:00+00:00,20,False
+Jersey Fancy,printed t-shirt,2026-02-22 00:00:00+00:00,17,False
+Jersey Fancy,band t-shirt,2026-02-22 00:00:00+00:00,7,False
+Jersey Fancy,graphic t-shirt,2026-03-01 00:00:00+00:00,0,False
+Jersey Fancy,printed t-shirt,2026-03-01 00:00:00+00:00,0,False
+Jersey Fancy,band t-shirt,2026-03-01 00:00:00+00:00,0,False
+Jersey Fancy,graphic t-shirt,2026-03-08 00:00:00+00:00,2,False
+Jersey Fancy,printed t-shirt,2026-03-08 00:00:00+00:00,0,False
+Jersey Fancy,band t-shirt,2026-03-08 00:00:00+00:00,0,False
+Jersey Fancy,graphic t-shirt,2026-03-15 00:00:00+00:00,0,False
+Jersey Fancy,printed t-shirt,2026-03-15 00:00:00+00:00,0,False
+Jersey Fancy,band t-shirt,2026-03-15 00:00:00+00:00,0,False
+Jersey Fancy,graphic t-shirt,2026-03-22 00:00:00+00:00,2,False
+Jersey Fancy,printed t-shirt,2026-03-22 00:00:00+00:00,0,False
+Jersey Fancy,band t-shirt,2026-03-22 00:00:00+00:00,0,False
+Jersey Fancy,graphic t-shirt,2026-03-29 00:00:00+00:00,2,False
+Jersey Fancy,printed t-shirt,2026-03-29 00:00:00+00:00,0,False
+Jersey Fancy,band t-shirt,2026-03-29 00:00:00+00:00,0,False
+Jersey Fancy,graphic t-shirt,2026-04-05 00:00:00+00:00,2,False
+Jersey Fancy,printed t-shirt,2026-04-05 00:00:00+00:00,0,False
+Jersey Fancy,band t-shirt,2026-04-05 00:00:00+00:00,0,False
+Jersey Fancy,graphic t-shirt,2026-04-12 00:00:00+00:00,3,False
+Jersey Fancy,printed t-shirt,2026-04-12 00:00:00+00:00,0,False
+Jersey Fancy,band t-shirt,2026-04-12 00:00:00+00:00,0,False
+Jersey Fancy,graphic t-shirt,2026-04-19 00:00:00+00:00,0,False
+Jersey Fancy,printed t-shirt,2026-04-19 00:00:00+00:00,0,False
+Jersey Fancy,band t-shirt,2026-04-19 00:00:00+00:00,0,False
+Jersey Fancy,graphic t-shirt,2026-04-26 00:00:00+00:00,2,False
+Jersey Fancy,printed t-shirt,2026-04-26 00:00:00+00:00,0,False
+Jersey Fancy,band t-shirt,2026-04-26 00:00:00+00:00,0,False
+Jersey Fancy,graphic t-shirt,2026-05-03 00:00:00+00:00,4,False
+Jersey Fancy,printed t-shirt,2026-05-03 00:00:00+00:00,0,False
+Jersey Fancy,band t-shirt,2026-05-03 00:00:00+00:00,0,False
+Jersey Fancy,graphic t-shirt,2026-05-10 00:00:00+00:00,0,False
+Jersey Fancy,printed t-shirt,2026-05-10 00:00:00+00:00,0,False
+Jersey Fancy,band t-shirt,2026-05-10 00:00:00+00:00,0,False
+Jersey Fancy,graphic t-shirt,2026-05-17 00:00:00+00:00,0,False
+Jersey Fancy,printed t-shirt,2026-05-17 00:00:00+00:00,0,False
+Jersey Fancy,band t-shirt,2026-05-17 00:00:00+00:00,0,False
+Jersey Fancy,graphic t-shirt,2026-05-24 00:00:00+00:00,3,False
+Jersey Fancy,printed t-shirt,2026-05-24 00:00:00+00:00,0,False
+Jersey Fancy,band t-shirt,2026-05-24 00:00:00+00:00,0,False
+Jersey Fancy,graphic t-shirt,2026-05-31 00:00:00+00:00,0,False
+Jersey Fancy,printed t-shirt,2026-05-31 00:00:00+00:00,0,False
+Jersey Fancy,band t-shirt,2026-05-31 00:00:00+00:00,0,False
+Jersey Fancy,graphic t-shirt,2026-06-07 00:00:00+00:00,3,False
+Jersey Fancy,printed t-shirt,2026-06-07 00:00:00+00:00,0,False
+Jersey Fancy,band t-shirt,2026-06-07 00:00:00+00:00,0,False
+Jersey Fancy,graphic t-shirt,2026-06-14 00:00:00+00:00,0,False
+Jersey Fancy,printed t-shirt,2026-06-14 00:00:00+00:00,0,False
+Jersey Fancy,band t-shirt,2026-06-14 00:00:00+00:00,0,False
+Jersey Fancy,graphic t-shirt,2026-06-21 00:00:00+00:00,0,False
+Jersey Fancy,printed t-shirt,2026-06-21 00:00:00+00:00,0,False
+Jersey Fancy,band t-shirt,2026-06-21 00:00:00+00:00,0,False
+Jersey Fancy,graphic t-shirt,2026-06-28 00:00:00+00:00,0,False
+Jersey Fancy,printed t-shirt,2026-06-28 00:00:00+00:00,0,False
+Jersey Fancy,band t-shirt,2026-06-28 00:00:00+00:00,0,False
+Jersey Fancy,graphic t-shirt,2026-07-05 00:00:00+00:00,0,False
+Jersey Fancy,printed t-shirt,2026-07-05 00:00:00+00:00,0,False
+Jersey Fancy,band t-shirt,2026-07-05 00:00:00+00:00,0,False
+Jersey Fancy,graphic t-shirt,2026-07-12 00:00:00+00:00,0,False
+Jersey Fancy,printed t-shirt,2026-07-12 00:00:00+00:00,0,False
+Jersey Fancy,band t-shirt,2026-07-12 00:00:00+00:00,0,False
+Jersey Fancy,graphic t-shirt,2026-07-19 00:00:00+00:00,0,False
+Jersey Fancy,printed t-shirt,2026-07-19 00:00:00+00:00,0,False
+Jersey Fancy,band t-shirt,2026-07-19 00:00:00+00:00,0,False
+Jersey Fancy,graphic t-shirt,2026-07-26 00:00:00+00:00,0,False
+Jersey Fancy,printed t-shirt,2026-07-26 00:00:00+00:00,0,False
+Jersey Fancy,band t-shirt,2026-07-26 00:00:00+00:00,0,False
+Jersey Fancy,graphic t-shirt,2026-08-02 00:00:00+00:00,0,False
+Jersey Fancy,printed t-shirt,2026-08-02 00:00:00+00:00,0,False
+Jersey Fancy,band t-shirt,2026-08-02 00:00:00+00:00,0,False
+Jersey Fancy,graphic t-shirt,2026-08-09 00:00:00+00:00,0,False
+Jersey Fancy,printed t-shirt,2026-08-09 00:00:00+00:00,3,False
+Jersey Fancy,band t-shirt,2026-08-09 00:00:00+00:00,0,False
+Jersey Fancy,graphic t-shirt,2026-08-16 00:00:00+00:00,0,False
+Jersey Fancy,printed t-shirt,2026-08-16 00:00:00+00:00,0,False
+Jersey Fancy,band t-shirt,2026-08-16 00:00:00+00:00,0,False
+Jersey Fancy,graphic t-shirt,2026-08-23 00:00:00+00:00,0,False
+Jersey Fancy,printed t-shirt,2026-08-23 00:00:00+00:00,0,False
+Jersey Fancy,band t-shirt,2026-08-23 00:00:00+00:00,0,False
+Jersey Fancy,graphic t-shirt,2026-08-30 00:00:00+00:00,0,False
+Jersey Fancy,printed t-shirt,2026-08-30 00:00:00+00:00,0,False
+Jersey Fancy,band t-shirt,2026-08-30 00:00:00+00:00,0,False
+Jersey Fancy,graphic t-shirt,2026-09-06 00:00:00+00:00,3,False
+Jersey Fancy,printed t-shirt,2026-09-06 00:00:00+00:00,0,False
+Jersey Fancy,band t-shirt,2026-09-06 00:00:00+00:00,0,False
+Jersey Fancy,graphic t-shirt,2026-09-13 00:00:00+00:00,0,False
+Jersey Fancy,printed t-shirt,2026-09-13 00:00:00+00:00,0,False
+Jersey Fancy,band t-shirt,2026-09-13 00:00:00+00:00,0,False
+Jersey Fancy,graphic t-shirt,2026-09-20 00:00:00+00:00,1,False
+Jersey Fancy,printed t-shirt,2026-09-20 00:00:00+00:00,0,False
+Jersey Fancy,band t-shirt,2026-09-20 00:00:00+00:00,0,False
+Jersey Fancy,graphic t-shirt,2026-09-27 00:00:00+00:00,1,True
+Jersey Fancy,printed t-shirt,2026-09-27 00:00:00+00:00,0,True
+Jersey Fancy,band t-shirt,2026-09-27 00:00:00+00:00,0,True
+Dressed,dresses fashion,2025-09-28 00:00:00+00:00,9,False
+Dressed,womens dress,2025-09-28 00:00:00+00:00,41,False
+Dressed,midi dress,2025-09-28 00:00:00+00:00,85,False
+Dressed,dresses fashion,2025-10-05 00:00:00+00:00,6,False
+Dressed,womens dress,2025-10-05 00:00:00+00:00,37,False
+Dressed,midi dress,2025-10-05 00:00:00+00:00,93,False
+Dressed,dresses fashion,2025-10-12 00:00:00+00:00,8,False
+Dressed,womens dress,2025-10-12 00:00:00+00:00,42,False
+Dressed,midi dress,2025-10-12 00:00:00+00:00,86,False
+Dressed,dresses fashion,2025-10-19 00:00:00+00:00,9,False
+Dressed,womens dress,2025-10-19 00:00:00+00:00,41,False
+Dressed,midi dress,2025-10-19 00:00:00+00:00,90,False
+Dressed,dresses fashion,2025-10-26 00:00:00+00:00,8,False
+Dressed,womens dress,2025-10-26 00:00:00+00:00,39,False
+Dressed,midi dress,2025-10-26 00:00:00+00:00,84,False
+Dressed,dresses fashion,2025-11-02 00:00:00+00:00,8,False
+Dressed,womens dress,2025-11-02 00:00:00+00:00,39,False
+Dressed,midi dress,2025-11-02 00:00:00+00:00,89,False
+Dressed,dresses fashion,2025-11-09 00:00:00+00:00,8,False
+Dressed,womens dress,2025-11-09 00:00:00+00:00,43,False
+Dressed,midi dress,2025-11-09 00:00:00+00:00,84,False
+Dressed,dresses fashion,2025-11-16 00:00:00+00:00,7,False
+Dressed,womens dress,2025-11-16 00:00:00+00:00,42,False
+Dressed,midi dress,2025-11-16 00:00:00+00:00,85,False
+Dressed,dresses fashion,2025-11-23 00:00:00+00:00,8,False
+Dressed,womens dress,2025-11-23 00:00:00+00:00,51,False
+Dressed,midi dress,2025-11-23 00:00:00+00:00,96,False
+Dressed,dresses fashion,2025-11-30 00:00:00+00:00,7,False
+Dressed,womens dress,2025-11-30 00:00:00+00:00,50,False
+Dressed,midi dress,2025-11-30 00:00:00+00:00,92,False
+Dressed,dresses fashion,2025-12-07 00:00:00+00:00,6,False
+Dressed,womens dress,2025-12-07 00:00:00+00:00,48,False
+Dressed,midi dress,2025-12-07 00:00:00+00:00,83,False
+Dressed,dresses fashion,2025-12-14 00:00:00+00:00,5,False
+Dressed,womens dress,2025-12-14 00:00:00+00:00,43,False
+Dressed,midi dress,2025-12-14 00:00:00+00:00,74,False
+Dressed,dresses fashion,2025-12-21 00:00:00+00:00,6,False
+Dressed,womens dress,2025-12-21 00:00:00+00:00,30,False
+Dressed,midi dress,2025-12-21 00:00:00+00:00,64,False
+Dressed,dresses fashion,2025-12-28 00:00:00+00:00,5,False
+Dressed,womens dress,2025-12-28 00:00:00+00:00,34,False
+Dressed,midi dress,2025-12-28 00:00:00+00:00,68,False
+Dressed,dresses fashion,2026-01-04 00:00:00+00:00,6,False
+Dressed,womens dress,2026-01-04 00:00:00+00:00,36,False
+Dressed,midi dress,2026-01-04 00:00:00+00:00,71,False
+Dressed,dresses fashion,2026-01-11 00:00:00+00:00,7,False
+Dressed,womens dress,2026-01-11 00:00:00+00:00,34,False
+Dressed,midi dress,2026-01-11 00:00:00+00:00,73,False
+Dressed,dresses fashion,2026-01-18 00:00:00+00:00,9,False
+Dressed,womens dress,2026-01-18 00:00:00+00:00,33,False
+Dressed,midi dress,2026-01-18 00:00:00+00:00,71,False
+Dressed,dresses fashion,2026-01-25 00:00:00+00:00,6,False
+Dressed,womens dress,2026-01-25 00:00:00+00:00,33,False
+Dressed,midi dress,2026-01-25 00:00:00+00:00,73,False
+Dressed,dresses fashion,2026-02-01 00:00:00+00:00,8,False
+Dressed,womens dress,2026-02-01 00:00:00+00:00,33,False
+Dressed,midi dress,2026-02-01 00:00:00+00:00,73,False
+Dressed,dresses fashion,2026-02-08 00:00:00+00:00,16,False
+Dressed,womens dress,2026-02-08 00:00:00+00:00,49,False
+Dressed,midi dress,2026-02-08 00:00:00+00:00,99,False
+Dressed,dresses fashion,2026-02-15 00:00:00+00:00,16,False
+Dressed,womens dress,2026-02-15 00:00:00+00:00,55,False
+Dressed,midi dress,2026-02-15 00:00:00+00:00,100,False
+Dressed,dresses fashion,2026-02-22 00:00:00+00:00,8,False
+Dressed,womens dress,2026-02-22 00:00:00+00:00,38,False
+Dressed,midi dress,2026-02-22 00:00:00+00:00,76,False
+Dressed,dresses fashion,2026-03-01 00:00:00+00:00,8,False
+Dressed,womens dress,2026-03-01 00:00:00+00:00,34,False
+Dressed,midi dress,2026-03-01 00:00:00+00:00,71,False
+Dressed,dresses fashion,2026-03-08 00:00:00+00:00,7,False
+Dressed,womens dress,2026-03-08 00:00:00+00:00,34,False
+Dressed,midi dress,2026-03-08 00:00:00+00:00,74,False
+Dressed,dresses fashion,2026-03-15 00:00:00+00:00,7,False
+Dressed,womens dress,2026-03-15 00:00:00+00:00,32,False
+Dressed,midi dress,2026-03-15 00:00:00+00:00,73,False
+Dressed,dresses fashion,2026-03-22 00:00:00+00:00,7,False
+Dressed,womens dress,2026-03-22 00:00:00+00:00,33,False
+Dressed,midi dress,2026-03-22 00:00:00+00:00,71,False
+Dressed,dresses fashion,2026-03-29 00:00:00+00:00,7,False
+Dressed,womens dress,2026-03-29 00:00:00+00:00,28,False
+Dressed,midi dress,2026-03-29 00:00:00+00:00,60,False
+Dressed,dresses fashion,2026-04-05 00:00:00+00:00,5,False
+Dressed,womens dress,2026-04-05 00:00:00+00:00,35,False
+Dressed,midi dress,2026-04-05 00:00:00+00:00,75,False
+Dressed,dresses fashion,2026-04-12 00:00:00+00:00,6,False
+Dressed,womens dress,2026-04-12 00:00:00+00:00,32,False
+Dressed,midi dress,2026-04-12 00:00:00+00:00,73,False
+Dressed,dresses fashion,2026-04-19 00:00:00+00:00,6,False
+Dressed,womens dress,2026-04-19 00:00:00+00:00,35,False
+Dressed,midi dress,2026-04-19 00:00:00+00:00,64,False
+Dressed,dresses fashion,2026-04-26 00:00:00+00:00,6,False
+Dressed,womens dress,2026-04-26 00:00:00+00:00,34,False
+Dressed,midi dress,2026-04-26 00:00:00+00:00,63,False
+Dressed,dresses fashion,2026-05-03 00:00:00+00:00,7,False
+Dressed,womens dress,2026-05-03 00:00:00+00:00,31,False
+Dressed,midi dress,2026-05-03 00:00:00+00:00,62,False
+Dressed,dresses fashion,2026-05-10 00:00:00+00:00,7,False
+Dressed,womens dress,2026-05-10 00:00:00+00:00,30,False
+Dressed,midi dress,2026-05-10 00:00:00+00:00,68,False
+Dressed,dresses fashion,2026-05-17 00:00:00+00:00,5,False
+Dressed,womens dress,2026-05-17 00:00:00+00:00,32,False
+Dressed,midi dress,2026-05-17 00:00:00+00:00,74,False
+Dressed,dresses fashion,2026-05-24 00:00:00+00:00,6,False
+Dressed,womens dress,2026-05-24 00:00:00+00:00,31,False
+Dressed,midi dress,2026-05-24 00:00:00+00:00,63,False
+Dressed,dresses fashion,2026-05-31 00:00:00+00:00,5,False
+Dressed,womens dress,2026-05-31 00:00:00+00:00,33,False
+Dressed,midi dress,2026-05-31 00:00:00+00:00,70,False
+Dressed,dresses fashion,2026-06-07 00:00:00+00:00,6,False
+Dressed,womens dress,2026-06-07 00:00:00+00:00,33,False
+Dressed,midi dress,2026-06-07 00:00:00+00:00,59,False
+Dressed,dresses fashion,2026-06-14 00:00:00+00:00,6,False
+Dressed,womens dress,2026-06-14 00:00:00+00:00,26,False
+Dressed,midi dress,2026-06-14 00:00:00+00:00,57,False
+Dressed,dresses fashion,2026-06-21 00:00:00+00:00,5,False
+Dressed,womens dress,2026-06-21 00:00:00+00:00,33,False
+Dressed,midi dress,2026-06-21 00:00:00+00:00,56,False
+Dressed,dresses fashion,2026-06-28 00:00:00+00:00,6,False
+Dressed,womens dress,2026-06-28 00:00:00+00:00,30,False
+Dressed,midi dress,2026-06-28 00:00:00+00:00,58,False
+Dressed,dresses fashion,2026-07-05 00:00:00+00:00,6,False
+Dressed,womens dress,2026-07-05 00:00:00+00:00,31,False
+Dressed,midi dress,2026-07-05 00:00:00+00:00,60,False
+Dressed,dresses fashion,2026-07-12 00:00:00+00:00,6,False
+Dressed,womens dress,2026-07-12 00:00:00+00:00,31,False
+Dressed,midi dress,2026-07-12 00:00:00+00:00,56,False
+Dressed,dresses fashion,2026-07-19 00:00:00+00:00,6,False
+Dressed,womens dress,2026-07-19 00:00:00+00:00,29,False
+Dressed,midi dress,2026-07-19 00:00:00+00:00,57,False
+Dressed,dresses fashion,2026-07-26 00:00:00+00:00,6,False
+Dressed,womens dress,2026-07-26 00:00:00+00:00,29,False
+Dressed,midi dress,2026-07-26 00:00:00+00:00,75,False
+Dressed,dresses fashion,2026-08-02 00:00:00+00:00,6,False
+Dressed,womens dress,2026-08-02 00:00:00+00:00,32,False
+Dressed,midi dress,2026-08-02 00:00:00+00:00,63,False
+Dressed,dresses fashion,2026-08-09 00:00:00+00:00,7,False
+Dressed,womens dress,2026-08-09 00:00:00+00:00,33,False
+Dressed,midi dress,2026-08-09 00:00:00+00:00,67,False
+Dressed,dresses fashion,2026-08-16 00:00:00+00:00,7,False
+Dressed,womens dress,2026-08-16 00:00:00+00:00,35,False
+Dressed,midi dress,2026-08-16 00:00:00+00:00,61,False
+Dressed,dresses fashion,2026-08-23 00:00:00+00:00,6,False
+Dressed,womens dress,2026-08-23 00:00:00+00:00,35,False
+Dressed,midi dress,2026-08-23 00:00:00+00:00,72,False
+Dressed,dresses fashion,2026-08-30 00:00:00+00:00,7,False
+Dressed,womens dress,2026-08-30 00:00:00+00:00,38,False
+Dressed,midi dress,2026-08-30 00:00:00+00:00,75,False
+Dressed,dresses fashion,2026-09-06 00:00:00+00:00,7,False
+Dressed,womens dress,2026-09-06 00:00:00+00:00,40,False
+Dressed,midi dress,2026-09-06 00:00:00+00:00,86,False
+Dressed,dresses fashion,2026-09-13 00:00:00+00:00,6,False
+Dressed,womens dress,2026-09-13 00:00:00+00:00,42,False
+Dressed,midi dress,2026-09-13 00:00:00+00:00,87,False
+Dressed,dresses fashion,2026-09-20 00:00:00+00:00,7,False
+Dressed,womens dress,2026-09-20 00:00:00+00:00,43,False
+Dressed,midi dress,2026-09-20 00:00:00+00:00,88,False
+Dressed,dresses fashion,2026-09-27 00:00:00+00:00,7,True
+Dressed,womens dress,2026-09-27 00:00:00+00:00,40,True
+Dressed,midi dress,2026-09-27 00:00:00+00:00,85,True
+Trousers,trousers fashion,2025-09-28 00:00:00+00:00,0,False
+Trousers,womens trousers,2025-09-28 00:00:00+00:00,43,False
+Trousers,tailored trousers,2025-09-28 00:00:00+00:00,28,False
+Trousers,trousers fashion,2025-10-05 00:00:00+00:00,0,False
+Trousers,womens trousers,2025-10-05 00:00:00+00:00,43,False
+Trousers,tailored trousers,2025-10-05 00:00:00+00:00,0,False
+Trousers,trousers fashion,2025-10-12 00:00:00+00:00,0,False
+Trousers,womens trousers,2025-10-12 00:00:00+00:00,37,False
+Trousers,tailored trousers,2025-10-12 00:00:00+00:00,0,False
+Trousers,trousers fashion,2025-10-19 00:00:00+00:00,0,False
+Trousers,womens trousers,2025-10-19 00:00:00+00:00,49,False
+Trousers,tailored trousers,2025-10-19 00:00:00+00:00,0,False
+Trousers,trousers fashion,2025-10-26 00:00:00+00:00,0,False
+Trousers,womens trousers,2025-10-26 00:00:00+00:00,30,False
+Trousers,tailored trousers,2025-10-26 00:00:00+00:00,0,False
+Trousers,trousers fashion,2025-11-02 00:00:00+00:00,20,False
+Trousers,womens trousers,2025-11-02 00:00:00+00:00,41,False
+Trousers,tailored trousers,2025-11-02 00:00:00+00:00,0,False
+Trousers,trousers fashion,2025-11-09 00:00:00+00:00,0,False
+Trousers,womens trousers,2025-11-09 00:00:00+00:00,44,False
+Trousers,tailored trousers,2025-11-09 00:00:00+00:00,0,False
+Trousers,trousers fashion,2025-11-16 00:00:00+00:00,0,False
+Trousers,womens trousers,2025-11-16 00:00:00+00:00,31,False
+Trousers,tailored trousers,2025-11-16 00:00:00+00:00,0,False
+Trousers,trousers fashion,2025-11-23 00:00:00+00:00,0,False
+Trousers,womens trousers,2025-11-23 00:00:00+00:00,42,False
+Trousers,tailored trousers,2025-11-23 00:00:00+00:00,27,False
+Trousers,trousers fashion,2025-11-30 00:00:00+00:00,0,False
+Trousers,womens trousers,2025-11-30 00:00:00+00:00,22,False
+Trousers,tailored trousers,2025-11-30 00:00:00+00:00,0,False
+Trousers,trousers fashion,2025-12-07 00:00:00+00:00,0,False
+Trousers,womens trousers,2025-12-07 00:00:00+00:00,0,False
+Trousers,tailored trousers,2025-12-07 00:00:00+00:00,0,False
+Trousers,trousers fashion,2025-12-14 00:00:00+00:00,0,False
+Trousers,womens trousers,2025-12-14 00:00:00+00:00,32,False
+Trousers,tailored trousers,2025-12-14 00:00:00+00:00,18,False
+Trousers,trousers fashion,2025-12-21 00:00:00+00:00,0,False
+Trousers,womens trousers,2025-12-21 00:00:00+00:00,22,False
+Trousers,tailored trousers,2025-12-21 00:00:00+00:00,0,False
+Trousers,trousers fashion,2025-12-28 00:00:00+00:00,0,False
+Trousers,womens trousers,2025-12-28 00:00:00+00:00,41,False
+Trousers,tailored trousers,2025-12-28 00:00:00+00:00,0,False
+Trousers,trousers fashion,2026-01-04 00:00:00+00:00,0,False
+Trousers,womens trousers,2026-01-04 00:00:00+00:00,22,False
+Trousers,tailored trousers,2026-01-04 00:00:00+00:00,21,False
+Trousers,trousers fashion,2026-01-11 00:00:00+00:00,0,False
+Trousers,womens trousers,2026-01-11 00:00:00+00:00,43,False
+Trousers,tailored trousers,2026-01-11 00:00:00+00:00,0,False
+Trousers,trousers fashion,2026-01-18 00:00:00+00:00,0,False
+Trousers,womens trousers,2026-01-18 00:00:00+00:00,39,False
+Trousers,tailored trousers,2026-01-18 00:00:00+00:00,0,False
+Trousers,trousers fashion,2026-01-25 00:00:00+00:00,0,False
+Trousers,womens trousers,2026-01-25 00:00:00+00:00,34,False
+Trousers,tailored trousers,2026-01-25 00:00:00+00:00,0,False
+Trousers,trousers fashion,2026-02-01 00:00:00+00:00,0,False
+Trousers,womens trousers,2026-02-01 00:00:00+00:00,29,False
+Trousers,tailored trousers,2026-02-01 00:00:00+00:00,0,False
+Trousers,trousers fashion,2026-02-08 00:00:00+00:00,55,False
+Trousers,womens trousers,2026-02-08 00:00:00+00:00,75,False
+Trousers,tailored trousers,2026-02-08 00:00:00+00:00,29,False
+Trousers,trousers fashion,2026-02-15 00:00:00+00:00,100,False
+Trousers,womens trousers,2026-02-15 00:00:00+00:00,78,False
+Trousers,tailored trousers,2026-02-15 00:00:00+00:00,25,False
+Trousers,trousers fashion,2026-02-22 00:00:00+00:00,34,False
+Trousers,womens trousers,2026-02-22 00:00:00+00:00,45,False
+Trousers,tailored trousers,2026-02-22 00:00:00+00:00,28,False
+Trousers,trousers fashion,2026-03-01 00:00:00+00:00,0,False
+Trousers,womens trousers,2026-03-01 00:00:00+00:00,41,False
+Trousers,tailored trousers,2026-03-01 00:00:00+00:00,0,False
+Trousers,trousers fashion,2026-03-08 00:00:00+00:00,16,False
+Trousers,womens trousers,2026-03-08 00:00:00+00:00,45,False
+Trousers,tailored trousers,2026-03-08 00:00:00+00:00,17,False
+Trousers,trousers fashion,2026-03-15 00:00:00+00:00,0,False
+Trousers,womens trousers,2026-03-15 00:00:00+00:00,38,False
+Trousers,tailored trousers,2026-03-15 00:00:00+00:00,22,False
+Trousers,trousers fashion,2026-03-22 00:00:00+00:00,0,False
+Trousers,womens trousers,2026-03-22 00:00:00+00:00,65,False
+Trousers,tailored trousers,2026-03-22 00:00:00+00:00,0,False
+Trousers,trousers fashion,2026-03-29 00:00:00+00:00,0,False
+Trousers,womens trousers,2026-03-29 00:00:00+00:00,39,False
+Trousers,tailored trousers,2026-03-29 00:00:00+00:00,0,False
+Trousers,trousers fashion,2026-04-05 00:00:00+00:00,0,False
+Trousers,womens trousers,2026-04-05 00:00:00+00:00,49,False
+Trousers,tailored trousers,2026-04-05 00:00:00+00:00,23,False
+Trousers,trousers fashion,2026-04-12 00:00:00+00:00,0,False
+Trousers,womens trousers,2026-04-12 00:00:00+00:00,54,False
+Trousers,tailored trousers,2026-04-12 00:00:00+00:00,26,False
+Trousers,trousers fashion,2026-04-19 00:00:00+00:00,0,False
+Trousers,womens trousers,2026-04-19 00:00:00+00:00,51,False
+Trousers,tailored trousers,2026-04-19 00:00:00+00:00,27,False
+Trousers,trousers fashion,2026-04-26 00:00:00+00:00,0,False
+Trousers,womens trousers,2026-04-26 00:00:00+00:00,61,False
+Trousers,tailored trousers,2026-04-26 00:00:00+00:00,27,False
+Trousers,trousers fashion,2026-05-03 00:00:00+00:00,0,False
+Trousers,womens trousers,2026-05-03 00:00:00+00:00,61,False
+Trousers,tailored trousers,2026-05-03 00:00:00+00:00,28,False
+Trousers,trousers fashion,2026-05-10 00:00:00+00:00,0,False
+Trousers,womens trousers,2026-05-10 00:00:00+00:00,69,False
+Trousers,tailored trousers,2026-05-10 00:00:00+00:00,28,False
+Trousers,trousers fashion,2026-05-17 00:00:00+00:00,0,False
+Trousers,womens trousers,2026-05-17 00:00:00+00:00,63,False
+Trousers,tailored trousers,2026-05-17 00:00:00+00:00,19,False
+Trousers,trousers fashion,2026-05-24 00:00:00+00:00,0,False
+Trousers,womens trousers,2026-05-24 00:00:00+00:00,59,False
+Trousers,tailored trousers,2026-05-24 00:00:00+00:00,31,False
+Trousers,trousers fashion,2026-05-31 00:00:00+00:00,0,False
+Trousers,womens trousers,2026-05-31 00:00:00+00:00,76,False
+Trousers,tailored trousers,2026-05-31 00:00:00+00:00,29,False
+Trousers,trousers fashion,2026-06-07 00:00:00+00:00,0,False
+Trousers,womens trousers,2026-06-07 00:00:00+00:00,70,False
+Trousers,tailored trousers,2026-06-07 00:00:00+00:00,19,False
+Trousers,trousers fashion,2026-06-14 00:00:00+00:00,0,False
+Trousers,womens trousers,2026-06-14 00:00:00+00:00,53,False
+Trousers,tailored trousers,2026-06-14 00:00:00+00:00,31,False
+Trousers,trousers fashion,2026-06-21 00:00:00+00:00,0,False
+Trousers,womens trousers,2026-06-21 00:00:00+00:00,65,False
+Trousers,tailored trousers,2026-06-21 00:00:00+00:00,26,False
+Trousers,trousers fashion,2026-06-28 00:00:00+00:00,0,False
+Trousers,womens trousers,2026-06-28 00:00:00+00:00,33,False
+Trousers,tailored trousers,2026-06-28 00:00:00+00:00,19,False
+Trousers,trousers fashion,2026-07-05 00:00:00+00:00,0,False
+Trousers,womens trousers,2026-07-05 00:00:00+00:00,49,False
+Trousers,tailored trousers,2026-07-05 00:00:00+00:00,25,False
+Trousers,trousers fashion,2026-07-12 00:00:00+00:00,0,False
+Trousers,womens trousers,2026-07-12 00:00:00+00:00,61,False
+Trousers,tailored trousers,2026-07-12 00:00:00+00:00,34,False
+Trousers,trousers fashion,2026-07-19 00:00:00+00:00,0,False
+Trousers,womens trousers,2026-07-19 00:00:00+00:00,54,False
+Trousers,tailored trousers,2026-07-19 00:00:00+00:00,23,False
+Trousers,trousers fashion,2026-07-26 00:00:00+00:00,0,False
+Trousers,womens trousers,2026-07-26 00:00:00+00:00,40,False
+Trousers,tailored trousers,2026-07-26 00:00:00+00:00,23,False
+Trousers,trousers fashion,2026-08-02 00:00:00+00:00,0,False
+Trousers,womens trousers,2026-08-02 00:00:00+00:00,53,False
+Trousers,tailored trousers,2026-08-02 00:00:00+00:00,23,False
+Trousers,trousers fashion,2026-08-09 00:00:00+00:00,0,False
+Trousers,womens trousers,2026-08-09 00:00:00+00:00,52,False
+Trousers,tailored trousers,2026-08-09 00:00:00+00:00,24,False
+Trousers,trousers fashion,2026-08-16 00:00:00+00:00,0,False
+Trousers,womens trousers,2026-08-16 00:00:00+00:00,51,False
+Trousers,tailored trousers,2026-08-16 00:00:00+00:00,17,False
+Trousers,trousers fashion,2026-08-23 00:00:00+00:00,0,False
+Trousers,womens trousers,2026-08-23 00:00:00+00:00,41,False
+Trousers,tailored trousers,2026-08-23 00:00:00+00:00,23,False
+Trousers,trousers fashion,2026-08-30 00:00:00+00:00,0,False
+Trousers,womens trousers,2026-08-30 00:00:00+00:00,43,False
+Trousers,tailored trousers,2026-08-30 00:00:00+00:00,22,False
+Trousers,trousers fashion,2026-09-06 00:00:00+00:00,0,False
+Trousers,womens trousers,2026-09-06 00:00:00+00:00,48,False
+Trousers,tailored trousers,2026-09-06 00:00:00+00:00,33,False
+Trousers,trousers fashion,2026-09-13 00:00:00+00:00,2,False
+Trousers,womens trousers,2026-09-13 00:00:00+00:00,55,False
+Trousers,tailored trousers,2026-09-13 00:00:00+00:00,7,False
+Trousers,trousers fashion,2026-09-20 00:00:00+00:00,5,False
+Trousers,womens trousers,2026-09-20 00:00:00+00:00,35,False
+Trousers,tailored trousers,2026-09-20 00:00:00+00:00,16,False
+Trousers,trousers fashion,2026-09-27 00:00:00+00:00,6,True
+Trousers,womens trousers,2026-09-27 00:00:00+00:00,35,True
+Trousers,tailored trousers,2026-09-27 00:00:00+00:00,18,True
+Outdoor,winter jacket,2025-09-28 00:00:00+00:00,4,False
+Outdoor,puffer jacket,2025-09-28 00:00:00+00:00,22,False
+Outdoor,womens coat,2025-09-28 00:00:00+00:00,4,False
+Outdoor,winter jacket,2025-10-05 00:00:00+00:00,4,False
+Outdoor,puffer jacket,2025-10-05 00:00:00+00:00,20,False
+Outdoor,womens coat,2025-10-05 00:00:00+00:00,4,False
+Outdoor,winter jacket,2025-10-12 00:00:00+00:00,5,False
+Outdoor,puffer jacket,2025-10-12 00:00:00+00:00,20,False
+Outdoor,womens coat,2025-10-12 00:00:00+00:00,2,False
+Outdoor,winter jacket,2025-10-19 00:00:00+00:00,4,False
+Outdoor,puffer jacket,2025-10-19 00:00:00+00:00,19,False
+Outdoor,womens coat,2025-10-19 00:00:00+00:00,4,False
+Outdoor,winter jacket,2025-10-26 00:00:00+00:00,6,False
+Outdoor,puffer jacket,2025-10-26 00:00:00+00:00,25,False
+Outdoor,womens coat,2025-10-26 00:00:00+00:00,3,False
+Outdoor,winter jacket,2025-11-02 00:00:00+00:00,8,False
+Outdoor,puffer jacket,2025-11-02 00:00:00+00:00,25,False
+Outdoor,womens coat,2025-11-02 00:00:00+00:00,4,False
+Outdoor,winter jacket,2025-11-09 00:00:00+00:00,8,False
+Outdoor,puffer jacket,2025-11-09 00:00:00+00:00,30,False
+Outdoor,womens coat,2025-11-09 00:00:00+00:00,4,False
+Outdoor,winter jacket,2025-11-16 00:00:00+00:00,9,False
+Outdoor,puffer jacket,2025-11-16 00:00:00+00:00,32,False
+Outdoor,womens coat,2025-11-16 00:00:00+00:00,5,False
+Outdoor,winter jacket,2025-11-23 00:00:00+00:00,12,False
+Outdoor,puffer jacket,2025-11-23 00:00:00+00:00,32,False
+Outdoor,womens coat,2025-11-23 00:00:00+00:00,4,False
+Outdoor,winter jacket,2025-11-30 00:00:00+00:00,11,False
+Outdoor,puffer jacket,2025-11-30 00:00:00+00:00,29,False
+Outdoor,womens coat,2025-11-30 00:00:00+00:00,4,False
+Outdoor,winter jacket,2025-12-07 00:00:00+00:00,8,False
+Outdoor,puffer jacket,2025-12-07 00:00:00+00:00,21,False
+Outdoor,womens coat,2025-12-07 00:00:00+00:00,3,False
+Outdoor,winter jacket,2025-12-14 00:00:00+00:00,7,False
+Outdoor,puffer jacket,2025-12-14 00:00:00+00:00,20,False
+Outdoor,womens coat,2025-12-14 00:00:00+00:00,2,False
+Outdoor,winter jacket,2025-12-21 00:00:00+00:00,8,False
+Outdoor,puffer jacket,2025-12-21 00:00:00+00:00,30,False
+Outdoor,womens coat,2025-12-21 00:00:00+00:00,5,False
+Outdoor,winter jacket,2025-12-28 00:00:00+00:00,7,False
+Outdoor,puffer jacket,2025-12-28 00:00:00+00:00,28,False
+Outdoor,womens coat,2025-12-28 00:00:00+00:00,5,False
+Outdoor,winter jacket,2026-01-04 00:00:00+00:00,7,False
+Outdoor,puffer jacket,2026-01-04 00:00:00+00:00,25,False
+Outdoor,womens coat,2026-01-04 00:00:00+00:00,3,False
+Outdoor,winter jacket,2026-01-11 00:00:00+00:00,8,False
+Outdoor,puffer jacket,2026-01-11 00:00:00+00:00,23,False
+Outdoor,womens coat,2026-01-11 00:00:00+00:00,3,False
+Outdoor,winter jacket,2026-01-18 00:00:00+00:00,6,False
+Outdoor,puffer jacket,2026-01-18 00:00:00+00:00,21,False
+Outdoor,womens coat,2026-01-18 00:00:00+00:00,3,False
+Outdoor,winter jacket,2026-01-25 00:00:00+00:00,7,False
+Outdoor,puffer jacket,2026-01-25 00:00:00+00:00,19,False
+Outdoor,womens coat,2026-01-25 00:00:00+00:00,3,False
+Outdoor,winter jacket,2026-02-01 00:00:00+00:00,10,False
+Outdoor,puffer jacket,2026-02-01 00:00:00+00:00,21,False
+Outdoor,womens coat,2026-02-01 00:00:00+00:00,3,False
+Outdoor,winter jacket,2026-02-08 00:00:00+00:00,26,False
+Outdoor,puffer jacket,2026-02-08 00:00:00+00:00,26,False
+Outdoor,womens coat,2026-02-08 00:00:00+00:00,7,False
+Outdoor,winter jacket,2026-02-15 00:00:00+00:00,29,False
+Outdoor,puffer jacket,2026-02-15 00:00:00+00:00,28,False
+Outdoor,womens coat,2026-02-15 00:00:00+00:00,8,False
+Outdoor,winter jacket,2026-02-22 00:00:00+00:00,12,False
+Outdoor,puffer jacket,2026-02-22 00:00:00+00:00,27,False
+Outdoor,womens coat,2026-02-22 00:00:00+00:00,6,False
+Outdoor,winter jacket,2026-03-01 00:00:00+00:00,7,False
+Outdoor,puffer jacket,2026-03-01 00:00:00+00:00,28,False
+Outdoor,womens coat,2026-03-01 00:00:00+00:00,5,False
+Outdoor,winter jacket,2026-03-08 00:00:00+00:00,9,False
+Outdoor,puffer jacket,2026-03-08 00:00:00+00:00,29,False
+Outdoor,womens coat,2026-03-08 00:00:00+00:00,8,False
+Outdoor,winter jacket,2026-03-15 00:00:00+00:00,10,False
+Outdoor,puffer jacket,2026-03-15 00:00:00+00:00,32,False
+Outdoor,womens coat,2026-03-15 00:00:00+00:00,8,False
+Outdoor,winter jacket,2026-03-22 00:00:00+00:00,15,False
+Outdoor,puffer jacket,2026-03-22 00:00:00+00:00,42,False
+Outdoor,womens coat,2026-03-22 00:00:00+00:00,10,False
+Outdoor,winter jacket,2026-03-29 00:00:00+00:00,13,False
+Outdoor,puffer jacket,2026-03-29 00:00:00+00:00,39,False
+Outdoor,womens coat,2026-03-29 00:00:00+00:00,8,False
+Outdoor,winter jacket,2026-04-05 00:00:00+00:00,17,False
+Outdoor,puffer jacket,2026-04-05 00:00:00+00:00,58,False
+Outdoor,womens coat,2026-04-05 00:00:00+00:00,13,False
+Outdoor,winter jacket,2026-04-12 00:00:00+00:00,22,False
+Outdoor,puffer jacket,2026-04-12 00:00:00+00:00,69,False
+Outdoor,womens coat,2026-04-12 00:00:00+00:00,15,False
+Outdoor,winter jacket,2026-04-19 00:00:00+00:00,18,False
+Outdoor,puffer jacket,2026-04-19 00:00:00+00:00,55,False
+Outdoor,womens coat,2026-04-19 00:00:00+00:00,12,False
+Outdoor,winter jacket,2026-04-26 00:00:00+00:00,15,False
+Outdoor,puffer jacket,2026-04-26 00:00:00+00:00,45,False
+Outdoor,womens coat,2026-04-26 00:00:00+00:00,12,False
+Outdoor,winter jacket,2026-05-03 00:00:00+00:00,24,False
+Outdoor,puffer jacket,2026-05-03 00:00:00+00:00,72,False
+Outdoor,womens coat,2026-05-03 00:00:00+00:00,15,False
+Outdoor,winter jacket,2026-05-10 00:00:00+00:00,18,False
+Outdoor,puffer jacket,2026-05-10 00:00:00+00:00,64,False
+Outdoor,womens coat,2026-05-10 00:00:00+00:00,14,False
+Outdoor,winter jacket,2026-05-17 00:00:00+00:00,22,False
+Outdoor,puffer jacket,2026-05-17 00:00:00+00:00,66,False
+Outdoor,womens coat,2026-05-17 00:00:00+00:00,14,False
+Outdoor,winter jacket,2026-05-24 00:00:00+00:00,19,False
+Outdoor,puffer jacket,2026-05-24 00:00:00+00:00,58,False
+Outdoor,womens coat,2026-05-24 00:00:00+00:00,15,False
+Outdoor,winter jacket,2026-05-31 00:00:00+00:00,28,False
+Outdoor,puffer jacket,2026-05-31 00:00:00+00:00,100,False
+Outdoor,womens coat,2026-05-31 00:00:00+00:00,18,False
+Outdoor,winter jacket,2026-06-07 00:00:00+00:00,20,False
+Outdoor,puffer jacket,2026-06-07 00:00:00+00:00,68,False
+Outdoor,womens coat,2026-06-07 00:00:00+00:00,13,False
+Outdoor,winter jacket,2026-06-14 00:00:00+00:00,18,False
+Outdoor,puffer jacket,2026-06-14 00:00:00+00:00,64,False
+Outdoor,womens coat,2026-06-14 00:00:00+00:00,11,False
+Outdoor,winter jacket,2026-06-21 00:00:00+00:00,19,False
+Outdoor,puffer jacket,2026-06-21 00:00:00+00:00,75,False
+Outdoor,womens coat,2026-06-21 00:00:00+00:00,17,False
+Outdoor,winter jacket,2026-06-28 00:00:00+00:00,20,False
+Outdoor,puffer jacket,2026-06-28 00:00:00+00:00,74,False
+Outdoor,womens coat,2026-06-28 00:00:00+00:00,14,False
+Outdoor,winter jacket,2026-07-05 00:00:00+00:00,18,False
+Outdoor,puffer jacket,2026-07-05 00:00:00+00:00,79,False
+Outdoor,womens coat,2026-07-05 00:00:00+00:00,11,False
+Outdoor,winter jacket,2026-07-12 00:00:00+00:00,16,False
+Outdoor,puffer jacket,2026-07-12 00:00:00+00:00,70,False
+Outdoor,womens coat,2026-07-12 00:00:00+00:00,11,False
+Outdoor,winter jacket,2026-07-19 00:00:00+00:00,13,False
+Outdoor,puffer jacket,2026-07-19 00:00:00+00:00,57,False
+Outdoor,womens coat,2026-07-19 00:00:00+00:00,11,False
+Outdoor,winter jacket,2026-07-26 00:00:00+00:00,12,False
+Outdoor,puffer jacket,2026-07-26 00:00:00+00:00,56,False
+Outdoor,womens coat,2026-07-26 00:00:00+00:00,11,False
+Outdoor,winter jacket,2026-08-02 00:00:00+00:00,12,False
+Outdoor,puffer jacket,2026-08-02 00:00:00+00:00,56,False
+Outdoor,womens coat,2026-08-02 00:00:00+00:00,8,False
+Outdoor,winter jacket,2026-08-09 00:00:00+00:00,10,False
+Outdoor,puffer jacket,2026-08-09 00:00:00+00:00,51,False
+Outdoor,womens coat,2026-08-09 00:00:00+00:00,10,False
+Outdoor,winter jacket,2026-08-16 00:00:00+00:00,8,False
+Outdoor,puffer jacket,2026-08-16 00:00:00+00:00,38,False
+Outdoor,womens coat,2026-08-16 00:00:00+00:00,6,False
+Outdoor,winter jacket,2026-08-23 00:00:00+00:00,7,False
+Outdoor,puffer jacket,2026-08-23 00:00:00+00:00,31,False
+Outdoor,womens coat,2026-08-23 00:00:00+00:00,5,False
+Outdoor,winter jacket,2026-08-30 00:00:00+00:00,5,False
+Outdoor,puffer jacket,2026-08-30 00:00:00+00:00,26,False
+Outdoor,womens coat,2026-08-30 00:00:00+00:00,5,False
+Outdoor,winter jacket,2026-09-06 00:00:00+00:00,7,False
+Outdoor,puffer jacket,2026-09-06 00:00:00+00:00,25,False
+Outdoor,womens coat,2026-09-06 00:00:00+00:00,4,False
+Outdoor,winter jacket,2026-09-13 00:00:00+00:00,6,False
+Outdoor,puffer jacket,2026-09-13 00:00:00+00:00,21,False
+Outdoor,womens coat,2026-09-13 00:00:00+00:00,4,False
+Outdoor,winter jacket,2026-09-20 00:00:00+00:00,5,False
+Outdoor,puffer jacket,2026-09-20 00:00:00+00:00,19,False
+Outdoor,womens coat,2026-09-20 00:00:00+00:00,3,False
+Outdoor,winter jacket,2026-09-27 00:00:00+00:00,5,True
+Outdoor,puffer jacket,2026-09-27 00:00:00+00:00,21,True
+Outdoor,womens coat,2026-09-27 00:00:00+00:00,4,True

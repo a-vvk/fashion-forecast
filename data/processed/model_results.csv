@@ -1,0 +1,6 @@
+model,directional_accuracy
+Naive,0.25333333333333335
+LightGBM,0.36
+Ridge,0.38666666666666666
+Direction Classifier,0.41333333333333333
+Ensemble,0.30666666666666664
